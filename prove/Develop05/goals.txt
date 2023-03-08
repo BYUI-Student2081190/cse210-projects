@@ -1,0 +1,5 @@
+4800
+1:Getting my School done,Get my school done before the end of the week.,500,False
+3:Go to the Temple,Go and ponder about Heavenly Father.,500,True,600,6,6
+2:Feed the Cats,Twice a day everyday,200,False
+1:Get an A on this assignment,Only hard work and determination can do that.,1000,True
